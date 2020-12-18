@@ -1,5 +1,5 @@
 
-# had-brought-config-x-pass-spanl
+
 
 
 
@@ -7,4 +7,9 @@
 
 
 
-kro.py xx.py http://xxxhack.net/xxx/  x
+    Usage: C:\kro.py [URL...] [directory...]
+
+    Ex) C:\kro.py http://www.test.com lnx1
+    
+    
+    
