@@ -1,5 +1,7 @@
 
+    Usage: C:\kro.py [URL...] [directory...]
 
+    Ex) C:\kro.py http://www.test.com lnx1
 
 
 
@@ -7,9 +9,7 @@
 
 
 
-    Usage: C:\kro.py [URL...] [directory...]
 
-    Ex) C:\kro.py http://www.test.com lnx1
     
     
     
